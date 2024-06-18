@@ -1,0 +1,3 @@
+/home/michal/Desktop/ProjektSo/Basic/cmake-build-debug/CMakeFiles/Bricks.dir
+/home/michal/Desktop/ProjektSo/Basic/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/michal/Desktop/ProjektSo/Basic/cmake-build-debug/CMakeFiles/rebuild_cache.dir
