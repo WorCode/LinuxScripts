@@ -1,0 +1,3 @@
+
+
+g++ -o kulka main.cpp Rectangle.cpp Ball.cpp -lncurses
